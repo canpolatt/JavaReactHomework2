@@ -12,6 +12,7 @@ public class Main {
             System.out.println(course.courseName);
         }
         CourseManager courseManager=new CourseManager();
+        courseManager.registrationCourse(course1);
         courseManager.registrationCourse(course2);
         courseManager.deleteCourse(course2);
     }
