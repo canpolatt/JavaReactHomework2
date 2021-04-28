@@ -1,3 +1,4 @@
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 **JAVA & REACT Kampı  - 2. Gün Ödev**
 - Kodlama.io sitesine gidiniz.
 - Özellik nesnesi olarak tanımladığımızı düşündüğünüz iki örnek veriniz.
