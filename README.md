@@ -1,10 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 **JAVA & REACT Kampı  - 2. Gün Ödev**
 - Kodlama.io sitesine gidiniz.
 - Özellik nesnesi olarak tanımladığımızı düşündüğünüz iki örnek veriniz.
